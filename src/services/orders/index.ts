@@ -1,1 +1,0 @@
-export { useOrdersService } from "./useOrdersService";
